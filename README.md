@@ -66,7 +66,7 @@ weather-app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Abbosbek-cloud/weather-app.git
    cd weather-app
    ```
 
@@ -314,8 +314,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@Abbosbek-cloud](https://github.com/Abbosbek-cloud)
+- Email: abek01sulaymonov@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -325,7 +325,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Support
 
-For support, email your.email@example.com or open an issue in the repository.
+For support, email abek01sulaymonov@gmail.com or open an issue in the repository.
 
 ---
 
